@@ -16,8 +16,6 @@
 
 * Using the for loop twice to calculate multiples of 4 and 5.
 
-<br />
-
 ## CODES
 
 ```Java
