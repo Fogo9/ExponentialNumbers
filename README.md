@@ -1,14 +1,14 @@
 # **EXPONENTIAL NUMBERS**
 
-# Information
+## INFORMATION
 
 * **Program that prints multiples of 5 and 4 up to the entered number.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * **N** and **I** variables are defined with int.
 
@@ -18,7 +18,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -76,13 +76,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ExponentialNumbers.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
